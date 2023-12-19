@@ -7,6 +7,7 @@ No, this does not steal your cookie. The beauty of this code is that it's open-s
 ## Setup
   - To start, run `requirements.bat` to install all the package requirements to make the script function as it's supposed to.
   - Simply run `start.bat` to run the code or if you prefer you can paste in Command Prompt `python main.py`
+  - Paste your desired Asset ID or exact URL into the program. It will save to file "clothes".
 ## Features
   - Fetches specific URLs and IDs
   - Converts XML to PNG
